@@ -16,7 +16,7 @@ class LoginScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              "Welcome to DummyPay",
+              "Welcome to SmartPay",
               style: TextStyle(
                 fontSize: 22,
                 fontWeight: FontWeight.bold,
